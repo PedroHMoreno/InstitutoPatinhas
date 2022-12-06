@@ -9,7 +9,7 @@
 
 ✒️ Autor 
 
-• Bryan Pedro Tavares Pinto
+• Bryan Pedro Tavares Pinto<br
 • Gabriel Aparecido Villa de Oliveira
 • Leticia Nobrega
 • Pedro Henrique Moreno
