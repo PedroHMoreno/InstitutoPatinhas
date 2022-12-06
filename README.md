@@ -1,4 +1,4 @@
-# Instituto Patinhas - Fatec Mogi Mirim :wolf:
+# Instituto Patinhas - Fatec Mogi Mirim 🐕🐈
 
 🚀 Desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo - Mogi Mirim
 
